@@ -5,7 +5,7 @@ import os
 import cv2
 
 # Set image category and paths and other variables
-DATADIR = "images/PetImages"
+DATADIR = "images"
 CATEGORIES = ["Dog", "Cat"]
 IMG_SIZE = 50
 
