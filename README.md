@@ -1,5 +1,5 @@
-# Convolutional_Newral_Network
-Cats and Gogs identification using deep learning
+# Convolutional_Neural_Network
+## Cats and Gogs identification using deep learning
 
 Step 1:
 Create a folder named "Project"
