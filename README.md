@@ -10,6 +10,8 @@ Project -> Image -> Cats
 
 Step 2: Keep you all dog's image into "Dogs" folder and cat's image into "Cats" folder
 
-Step 3: Run "MakeImageDump.py"
+Step 3: Keep the python files into "Project" folder.
 
-Step 4: Run "ConvNet.py"
+Step 4: Run "MakeImageDump.py"
+
+Step 5: Run "ConvNet.py"
